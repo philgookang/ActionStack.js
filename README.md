@@ -8,7 +8,7 @@ While working on sites, there were times when we call js code inside the page. I
 Therefore by utilizing this action stack, we can save all the action need to run into a javascript array, which is than called once the page rendering is complete. This will (I hope) prevent bottle-necks.
 
 
-Example encryption
+Ussage Example
 ------------------
 
 ```
