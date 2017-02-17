@@ -28,8 +28,7 @@ var ActionStack = (function() {
 	};
 
 	/**
-	 * Adds two numbers
-	 * @param {Function} callback_function this object(function) is called back at the end of the page
+	 * Run through the queue waiting line and run all the functions
 	 */
 	that.process = function() {
 
