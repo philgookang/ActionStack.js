@@ -1,5 +1,5 @@
 # ActionStack.js
-A simple javascript class that holds all the action in side the body content of the page and runs through the stacked actions at the end of the page--to prevent page loading bottle-necks.
+A simple javascript class that has a stack that holds all the action inside the body content of the page. At the page end of the page, it will run through the stacked actions to prevent page loading bottle-necks.
 
 Overview
 --------
