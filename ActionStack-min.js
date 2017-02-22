@@ -1,0 +1,1 @@
+var ActionStack=function(){var u={_queue:[]};return u.add=function(e){u._queue.push(e)},u.process=function(){for(var e=0;e<u._queue.length;e++)u._queue[e]()},u}();
