@@ -8,7 +8,7 @@
  *
  * @author Phil Goo Kang aka piggybank
  * @version 0.0.1
- * @url https://github.com/gromo/jquery.scrollbar/
+ * @url https://github.com/philgookang/ActionStack.js/ 
  *
  */
 var ActionStack = (function() {
