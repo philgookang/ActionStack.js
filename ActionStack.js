@@ -8,7 +8,7 @@
  *
  * @author Phil Goo Kang aka piggybank
  * @version 0.0.1
- * @url https://github.com/philgookang/ActionStack.js/ 
+ * @url https://github.com/philgookang/ActionStack.js/
  *
  */
 var ActionStack = (function() {
@@ -39,4 +39,7 @@ var ActionStack = (function() {
 			(that._queue[i])();
 		}
 	};
+
+	// return object
+	return that;
 })();
